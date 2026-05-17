@@ -1,0 +1,140 @@
+CRITICAL - 2026-05-17 03:40:37 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 32.
+ 1 APPPATH\Views\compare.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 32)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:40:46 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 32.
+ 1 APPPATH\Views\compare.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 32)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:40:47 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 32.
+ 1 APPPATH\Views\compare.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 32)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:40:47 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 32.
+ 1 APPPATH\Views\compare.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 32)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:40:47 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 32.
+ 1 APPPATH\Views\compare.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 32)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:41:02 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 32.
+ 1 APPPATH\Views\compare.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 32)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:41:12 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 32.
+ 1 APPPATH\Views\compare.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 32)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:51:25 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 30.
+ 1 APPPATH\Views\compare.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 30)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:51:30 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 30.
+ 1 APPPATH\Views\compare.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 30)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-05-17 03:51:33 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: compare]
+in APPPATH\Views\compare.php on line 30.
+ 1 APPPATH\Views\compare.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php', 30)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\AI-ExpertSistem\\app\\Views\\compare.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('compare', [], true)
+ 5 APPPATH\Controllers\HomeController.php(31): view('compare', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\HomeController->compare()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
