@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 print("Membaca file sumber yang masih utuh...")
-df = pd.read_csv('smartprix_smartphones.csv')
+df = pd.read_csv('smartprix_smartphones_april_2026.csv')
 
 # 1. MENGUBAH NAMA KOLOM
 # Menghilangkan tanda kurung agar aman jika nanti dimasukkan ke database/MySQL
